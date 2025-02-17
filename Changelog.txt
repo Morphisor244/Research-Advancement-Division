@@ -16,3 +16,7 @@
 **Version 1.2.1
 - Improved Local Observation flight subject selection logic to hopefully avoid requesting impossible experiments
 - Changed max simultaneous contracts to 7, matching the number of available contract types.
+
+**Version 1.2.2
+- Fixed the surface study contract, there will no longer be duplicates and everything should be smooth sailing now.
+- Added minimum number of experiments requirement to all contracts, should make generation a bit more consistent.
