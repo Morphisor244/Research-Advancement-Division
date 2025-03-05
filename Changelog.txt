@@ -20,3 +20,9 @@
 **Version 1.2.2
 - Fixed the surface study contract, there will no longer be duplicates and everything should be smooth sailing now.
 - Added minimum number of experiments requirement to all contracts, should make generation a bit more consistent.
+
+**Version 1.3.0
+- Improved biome selection logic for contracts that select multiple biomes (Orbital biome observation, Atmospheric investigation, Surface analysis).
+- This also makes the contract look better in mission control: subjects are ordered by biome and easier to differentiate.
+- Lowered minimum remaining science for these contracts to generate more often.
+- Tuned the experiment/subject numbers a bit.
